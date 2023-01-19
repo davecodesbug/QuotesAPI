@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "isF145D9zp3Vqv1jvhXDsj5E+gygqFxpbyNAcqR3DSWTJm6TfJUOJGIYCYM0tw41rCPloaT37xaTC3fwW0VcVw==",
+  "dgSpecHash": "NTc5T3d/1VNoEaXN0T7K7yw8oxPkAxlYliSi9+Xs4PZwmWucd3Oj3DAK/oe7/gkjCWouCdu0ToobAkyqLOPXRQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Backend Yemi\\riderprojects\\quotesapi\\QuotesAPI.csproj",
+  "projectFilePath": "C:\\Users\\Backend Yemi\\RiderProjects\\QuotesAPI\\QuotesAPI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Backend Yemi\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
     "C:\\Users\\Backend Yemi\\.nuget\\packages\\microsoft.entityframeworkcore\\7.0.2\\microsoft.entityframeworkcore.7.0.2.nupkg.sha512",

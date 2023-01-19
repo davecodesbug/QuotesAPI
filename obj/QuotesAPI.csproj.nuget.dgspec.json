@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Backend Yemi\\riderprojects\\quotesapi\\QuotesAPI.csproj": {}
+    "C:\\Users\\Backend Yemi\\RiderProjects\\QuotesAPI\\QuotesAPI.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Backend Yemi\\riderprojects\\quotesapi\\QuotesAPI.csproj": {
+    "C:\\Users\\Backend Yemi\\RiderProjects\\QuotesAPI\\QuotesAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Backend Yemi\\riderprojects\\quotesapi\\QuotesAPI.csproj",
+        "projectUniqueName": "C:\\Users\\Backend Yemi\\RiderProjects\\QuotesAPI\\QuotesAPI.csproj",
         "projectName": "QuotesAPI",
-        "projectPath": "C:\\Users\\Backend Yemi\\riderprojects\\quotesapi\\QuotesAPI.csproj",
+        "projectPath": "C:\\Users\\Backend Yemi\\RiderProjects\\QuotesAPI\\QuotesAPI.csproj",
         "packagesPath": "C:\\Users\\Backend Yemi\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Backend Yemi\\riderprojects\\quotesapi\\obj\\",
+        "outputPath": "C:\\Users\\Backend Yemi\\RiderProjects\\QuotesAPI\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Backend Yemi\\AppData\\Roaming\\NuGet\\NuGet.Config"
