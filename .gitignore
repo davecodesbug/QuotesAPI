@@ -443,6 +443,8 @@ $RECYCLE.BIN/
 # JetBrains Rider
 obj/
 bin/
+appsettings.Development.json
+appsettings.json
 .idea/
 *.sln.iml
 
