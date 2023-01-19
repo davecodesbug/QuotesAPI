@@ -66,6 +66,7 @@ public class QuotesController : Controller
         {
             quote.Quote = upsertQuote.Quote;
             await _dbContext.SaveChangesAsync();
+            return Ok(quote);
         }
 
         return NotFound();
